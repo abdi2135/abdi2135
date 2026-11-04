@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#142B3C"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#5EEAD4" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/><rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+<circle cx="1100" cy="20" r="220" fill="none" stroke="#5EEAD4" stroke-opacity=".12"/><circle cx="1100" cy="20" r="170" fill="none" stroke="#5EEAD4" stroke-opacity=".12"/>
+<rect x="64" y="65" width="45" height="4" rx="2" fill="#F5C76A"/>
+<text x="64" y="111" font-family="Arial,sans-serif" font-size="15" letter-spacing="5" fill="#5EEAD4">CYBERSECURITY / DIGITAL FORENSICS</text>
+<text x="60" y="190" font-family="Arial,sans-serif" font-size="66" font-weight="700" fill="#F1F5F9">Abdi Adnan</text>
+<text x="64" y="237" font-family="Arial,sans-serif" font-size="22" fill="#B5C6D5">Network Security · Linux · Python</text>
+<path d="M1010 112l55 22v43c0 40-55 65-55 65s-55-25-55-65v-43z" fill="#5EEAD4" fill-opacity=".06" stroke="#5EEAD4" stroke-width="2"/>
+<path d="M988 175l16 16 31-35" fill="none" stroke="#F5C76A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="0" y="314" width="1200" height="6" fill="#5EEAD4"/>
+</svg>
