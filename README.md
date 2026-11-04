@@ -47,12 +47,7 @@ I am a Cybersecurity and Digital Forensics graduate with practical exposure to n
 **Models:** Random Forest, XGBoost, LightGBM, AdaBoost, SVR, and Linear Regression.  
 **Methods:** Feature engineering, cross-validation, and model evaluation.
 
-### Web, mobile & databases
-<img alt="Django" src="https://img.shields.io/badge/Django-0369A1?style=for-the-badge" />
-<img alt="Django REST Framework" src="https://img.shields.io/badge/Django%20REST%20Framework-0369A1?style=for-the-badge" />
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0369A1?style=for-the-badge" />
-<img alt="React" src="https://img.shields.io/badge/React-0369A1?style=for-the-badge" />
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-0369A1?style=for-the-badge" />
+### Databases
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-475569?style=for-the-badge" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-475569?style=for-the-badge" />
 
